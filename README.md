@@ -1,5 +1,15 @@
-# Data Sources and Project Ideas
+# Student 
 
-### Tipping Patterns
+### Education
+Mathematics and Statistic Major
 
-### Merge Data
+Economics Minor
+
+### Work Experience 
+'''
+
+### Projects 
+'''
+
+### Data Sources and Project Ideas
+
