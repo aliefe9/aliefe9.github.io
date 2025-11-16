@@ -1,5 +1,3 @@
-# Student
-
 ## Education
 - B.A. in Mathematics & Statistics (Major)  
 - Economics (Minor)  
