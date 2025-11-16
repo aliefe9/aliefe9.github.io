@@ -15,8 +15,13 @@ assessments and optimize portfolio allocation, resulting in a well-balanced inve
   - Aggregated visits by day of week, plotted weekday vs. weekend gym visits, and ran a two-sample t-test (t = 3.39, p = 0.02), showing Schueller visits the gym significantly more on weekdays (≈13.4 visits) than weekends (7 visits)
   Visual:
 
-<iframe src="location_data_by_day_of_week.html" width="100%" height="600" style="border:none;"›
-‹p>Your browser does not support iframes.‹/p›
+<iframe
+  src="/location_data_by_day_of_week.html"
+  width="100%"
+  height="600"
+  style="border:none;"
+>
+  <p>Your browser does not support iframes.</p>
 </iframe>
 
   - [Link to GitHub repo](https://github.com/aliefe9/your-project)
