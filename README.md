@@ -29,11 +29,12 @@ assessments and optimize portfolio allocation, resulting in a well-balanced inve
 
 ## Data Sources and Project Ideas
 - [Basketball Players Stats Extended analysis](https://www.kaggle.com/code/isaienkov/basketball-players-stats-extended-analysis/input)
-  - Could do a statistical search on how succesfull nba teams had been with their number 1 draft
+  - Could do a statistical search on how successfull nba teams had been with their number 1 draft
 - [AI Workforce & Automation Dataset (2015–2025)](https://www.kaggle.com/datasets/emirhanakku/ai-workforce-and-automation-dataset-20152025)
   - Could analyze how the recent advancements in AI effected employment rate, average salary, productivity, etc and even compare with differrent countries.
 - [ESPN Soccer Data](https://www.kaggle.com/datasets/excel4soccer/espn-soccer-data)
   - I want to find the prime soccer player age by looking at their stats and achievements their whole career. Need to use merge.
 - [Athlete Overtraining Prediction Dataset](https://www.kaggle.com/datasets/yuanchunhong/athlete-overtraining-prediction-dataset)
   - Find the optimal training load, rest time etc for the max output. 
-
+-[Cristiano Ronaldo | All Club Goals](https://www.kaggle.com/datasets/azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats)
+  - Find the optimal goalscoring minute by using Cristiano Ronaldo's club goals stats and also find what causes him to not score as much, try to implement a way to use that during those high scoring minutes.
