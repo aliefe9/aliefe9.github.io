@@ -24,7 +24,7 @@ assessments and optimize portfolio allocation, resulting in a well-balanced inve
   <p>Your browser does not support iframes.</p>
 </iframe>
 
- ## Above & Beyond: Privacy and Inference
+## Above & Beyond: Privacy and Inference
 - Even from a limited subset of geolocation data, we can infer daily routines, gym habits, and important locations. In real-world settings, app developers could combine this with other data (purchases, social media, etc.) to build very detailed profiles of people. However, these inferences can also be misleading because of missing days or gaps can hide key parts of someone’s routine, GPS errors can misplace visits, and context (injury, vacation, schedule change) is not visible in the raw data.
 
 - In conclsuion, this project shows how a single person’s location history can be turned into testable hypotheses about daily habits, supported by both visualization and basic statistical analysis. At the same time, the work highlights that any pattern we “discover” is shaped by gaps, noise, and missing context, so responsible data analysis need to pair quantitative results with careful interpretation.
