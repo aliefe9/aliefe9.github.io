@@ -33,5 +33,5 @@ assessments and optimize portfolio allocation, resulting in a well-balanced inve
 - [AI Workforce & Automation Dataset (2015–2025)](https://www.kaggle.com/datasets/emirhanakku/ai-workforce-and-automation-dataset-20152025)
   - Could analyze how the recent advancements in AI effected employment rate, average salary, productivity, etc and even compare with differrent countries.
 - [ESPN Soccer Data](https://www.kaggle.com/datasets/excel4soccer/espn-soccer-data)
-  - I want to find the prime soccer player age by looking at their stats and achievements their whole career. Might need to merge some files.
+  - I want to find the prime soccer player age by looking at their stats and achievements their whole career. Need to use merge.
 
