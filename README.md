@@ -37,4 +37,4 @@ assessments and optimize portfolio allocation, resulting in a well-balanced inve
 - [Athlete Overtraining Prediction Dataset](https://www.kaggle.com/datasets/yuanchunhong/athlete-overtraining-prediction-dataset)
   - Find the optimal training load, rest time etc for the max output. 
 -[Cristiano Ronaldo | All Club Goals](https://www.kaggle.com/datasets/azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats)
-  - Find the optimal goalscoring minute by using Cristiano Ronaldo's club goals stats and also find what causes him to not score as much, try to implement a way to use that during those high scoring minutes.
+  - Find the best goalscoring minute by using Cristiano Ronaldo's club goals stats and also find the worst minute.
