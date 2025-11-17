@@ -13,7 +13,8 @@ assessments and optimize portfolio allocation, resulting in a well-balanced inve
   _Tools: Python (Google Colab), pandas, Plotly, SciPy, geopy, JSON_  
   - Tested whether Schueller goes to the gym more often on weekdays than on weekends in 2025 using location history
   - Aggregated visits by day of week, plotted weekday vs. weekend gym visits, and ran a two-sample t-test (t = 3.39, p = 0.02), showing Schueller visits the gym significantly more on weekdays (≈13.4 visits) than weekends (7 visits)
-  Visual:
+
+   Visual:
 
 <iframe
   src="/location_data_by_day_of_week.html"
