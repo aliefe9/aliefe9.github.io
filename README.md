@@ -26,11 +26,8 @@ assessments and optimize portfolio allocation, resulting in a well-balanced inve
 
   - [Link to GitHub repo](https://github.com/aliefe9/your-project)
 
-- **[Another Project]** – One line.  
-  _Tools: R, ggplot2, dplyr_  
-  - Bullet about method.
-  - Bullet about findings.
 
 ## Data Sources and Project Ideas
-- List of datasets you’re interested in (Kaggle, public APIs, sports data, etc.).
+- [Basketball Players Stats Extended analysis](https://www.kaggle.com/code/isaienkov/basketball-players-stats-extended-analysis/input)
+    - Could do a statistical search on how succesfull nba teams had been with their number 1 draft
 - Brief ideas you might tackle next (e.g., “model NBA player efficiency,” “forecast stock volatility,” “analyze city bike usage”).
