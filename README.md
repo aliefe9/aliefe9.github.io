@@ -34,4 +34,6 @@ assessments and optimize portfolio allocation, resulting in a well-balanced inve
   - Could analyze how the recent advancements in AI effected employment rate, average salary, productivity, etc and even compare with differrent countries.
 - [ESPN Soccer Data](https://www.kaggle.com/datasets/excel4soccer/espn-soccer-data)
   - I want to find the prime soccer player age by looking at their stats and achievements their whole career. Need to use merge.
+- [Athlete Overtraining Prediction Dataset](https://www.kaggle.com/datasets/yuanchunhong/athlete-overtraining-prediction-dataset)
+  - Find the optimal training load, rest time etc for the max output. 
 
