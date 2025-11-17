@@ -36,5 +36,5 @@ assessments and optimize portfolio allocation, resulting in a well-balanced inve
   - I want to find the prime soccer player age by looking at their stats and achievements their whole career. Need to use merge.
 - [Athlete Overtraining Prediction Dataset](https://www.kaggle.com/datasets/yuanchunhong/athlete-overtraining-prediction-dataset)
   - Find the optimal training load, rest time etc for the max output. 
-- [Cristiano Ronaldo | All Club Goals](https://www.kaggle.com/datasets/azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats)
+- [Cristiano Ronaldo All Club Goals](https://www.kaggle.com/datasets/azminetoushikwasi/cr7-cristiano-ronaldo-all-club-goals-stats)
   - Find the best goalscoring minute by using Cristiano Ronaldo's club goals stats and also find the worst minute.
