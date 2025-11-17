@@ -1,5 +1,5 @@
 ## Education
-- B.A. in Mathematics & Statistics (Major)  
+- Seeking B.A. in Mathematics & Statistics (Major)  
 - Economics (Minor)  
 
 ## Work Experience
