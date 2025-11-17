@@ -29,5 +29,6 @@ assessments and optimize portfolio allocation, resulting in a well-balanced inve
 
 ## Data Sources and Project Ideas
 - [Basketball Players Stats Extended analysis](https://www.kaggle.com/code/isaienkov/basketball-players-stats-extended-analysis/input)
-    - Could do a statistical search on how succesfull nba teams had been with their number 1 draft
-- Brief ideas you might tackle next (e.g., “model NBA player efficiency,” “forecast stock volatility,” “analyze city bike usage”).
+  - Could do a statistical search on how succesfull nba teams had been with their number 1 draft
+- [AI Workforce & Automation Dataset (2015–2025)](https://www.kaggle.com/datasets/emirhanakku/ai-workforce-and-automation-dataset-20152025)
+  - Could analyze how the recent advancements in AI effected employment rate, average salary, productivity, etc and even compare with differrent countries.
