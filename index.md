@@ -35,7 +35,7 @@
 - Mentored elementary students in math and academic support, building one-on-one relationships with students 
   to strengthen foundational skills and confidence in the classroom.
 
-## Projects
+### Projects
 
 - **[Where's Schueller?](https://aliefe9.github.io/Where-s-Schueller/)** – Analyzed real Google location history data from a Whitman College professor to test whether gym visits were more frequent on weekdays than weekends using geospatial filtering and hypothesis testing  
   _Tools: Python (Google Colab), pandas, Plotly, SciPy, geopy, JSON_
