@@ -37,7 +37,7 @@
 
 ## Projects
 
-- **[Where's Schueller?](https://aliefe9.github.io/Wheres_Schueller/)** – Analyzed real Google location history data from a Whitman College professor to test whether gym visits were more frequent on weekdays than weekends using geospatial filtering and hypothesis testing  
+- **[Where's Schueller?](https://aliefe9.github.io/Where-s-Schueller/)** – Analyzed real Google location history data from a Whitman College professor to test whether gym visits were more frequent on weekdays than weekends using geospatial filtering and hypothesis testing  
   _Tools: Python (Google Colab), pandas, Plotly, SciPy, geopy, JSON_
   - Filtered 71,000+ location data points to a 30-meter radius around Baker Ferguson Fitness Center; resampled to daily visits and visualized by day of week
   - Ran a two-sample Welch's t-test (t = 3.39, p = 0.02), finding significantly more weekday gym visits (≈13.4) than weekend visits (7.0)
